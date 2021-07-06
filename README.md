@@ -1,6 +1,8 @@
 ### Hi there 👋
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=oktayibis)](https://github.com/ryo-ma/github-profile-trophy)
 
+A Front-End Developer who loves to keep up with current technologies is a lifelong student, and works hard to make contributions that will make a difference to projects. I had the opportunity to work on dozens of different projects and used many front-end technologies. While respecting core development principles and best practices, I am also fearless to try innovations, this also helps me to leave my comfort zone and provide continuously self development.
 <!--
 **oktayibis/oktayibis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
