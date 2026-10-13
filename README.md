@@ -1,19 +1,23 @@
-### Hi there 👋
+# Oktay İbiş
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=oktayibis)](https://github.com/ryo-ma/github-profile-trophy)
+Mobile engineer. TypeScript, React Native, functional-first.
+Day job: leading mobile at Danske Bank. Here: side projects and experiments.
 
-A Front-End Developer who loves to keep up with current technologies is a lifelong student, and works hard to make contributions that will make a difference to projects. I had the opportunity to work on dozens of different projects and used many front-end technologies. While respecting core development principles and best practices, I am also fearless to try innovations, this also helps me to leave my comfort zone and provide continuously self development.
-<!--
-**oktayibis/oktayibis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I work with
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-Here are some ideas to get you started:
+## Selected projects
+- **[DeepUninstallMac](https://github.com/oktayibis/DeepUninstallMac)**: native macOS uninstaller and cache cleaner. Swift 6, SwiftUI.
+- **[unionix](https://github.com/oktayibis/unionix)**: <tek cümle, ne işe yarıyor>
+- **[amnezia-client](https://github.com/oktayibis/amnezia-clinet)**: <tek cümle>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- Agentic development workflows (issue → fix → PR)
+- <şu an kurcaladığın bir şey>
+
+## Elsewhere
+[oktayibis.com](https://oktayibis.com) · [LinkedIn](<link>)
