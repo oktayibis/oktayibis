@@ -1,6 +1,6 @@
 # Oktay İbiş
 
-Mobile engineer. TypeScript, React Native, functional-first.
+Lead engineer. or Chapter Lead. Mainly only developer. TypeScript, React Native, functional-first.
 I lead mobile at Danske Bank. Here: open source and experiments.
 
 ## What I'm into
